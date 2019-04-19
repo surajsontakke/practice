@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6155" started-at="2019-03-16T13:48:35Z" finished-at="2019-03-16T13:48:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6155" started-at="2019-03-16T13:48:35Z" finished-at="2019-03-16T13:48:41Z">
+      <class name="com.java.tesNG.TakeScreenshot">
+        <test-method status="PASS" signature="CaptureScreeshot()[pri:0, instance:com.java.tesNG.TakeScreenshot@3ffc5af1]" name="CaptureScreeshot" duration-ms="6112" started-at="2019-03-16T13:48:35Z" finished-at="2019-03-16T13:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreeshot -->
+      </class> <!-- com.java.tesNG.TakeScreenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
